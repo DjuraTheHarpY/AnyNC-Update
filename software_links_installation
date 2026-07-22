@@ -1,7 +1,7 @@
-[2025.1-alpha]
+[2025.1]
 link = https://nx2398.your-storageshare.de/s/taTGZZ4BQfGaBYi/download/AnyNC-2025.1-alpha-Setup.exe
 
-[2025.1.2-alpha]
+[2025.2]
 link = https://nx2398.your-storageshare.de/s/YksQobwzFkwxXNa/download/AnyNC-2025.1.2-alpha-Setup.exe
 
 [2025.3]
@@ -15,3 +15,6 @@ link = https://nx2398.your-storageshare.de/s/oEKbgEDHQEWCejJ/download/AnyNC-2026
 
 [2026.4]
 link = https://nx2398.your-storageshare.de/s/6WZTf3JF5DEeTbq/download/AnyNC-2026.4-Setup.exe
+
+[2026.5]
+link = https://nx2398.your-storageshare.de/s/J6679jecQRm573w/download/AnyNC-2026.5-dev-Setup.exe
